@@ -13,6 +13,8 @@ Testing reading data from Matrikon OPC DA server simulator
 ********************************************************************************************************
 Testing logging data to SQL mangement serve
 
+Install-Package System.Data.SqlClient
+
 ----------------------------------------
 Code
 ----------------------------------------
@@ -60,6 +62,9 @@ Code
 
 
 
+***********************************************************************************************************************************
+Recive data from Labview by using 
+Install-Package OpcLabs.QuickOpc
 
 
 
